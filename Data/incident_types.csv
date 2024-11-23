@@ -1,0 +1,16 @@
+type_id,name,description
+1,Network Downtime,Network Downtime description
+2,Server Overload,Server Overload description
+3,Unauthorized Access,Unauthorized Access description
+4,Data Corruption,Data Corruption description
+5,Login Failure,Login Failure description
+6,Software Crash,Software Crash description
+7,Service Timeout,Service Timeout description
+8,Configuration Error,Configuration Error description
+9,Hardware Failure,Hardware Failure description
+10,Email Delivery Failure,Email Delivery Failure description
+11,Database Connection Issue,Database Connection Issue description
+12,Firewall Misconfiguration,Firewall Misconfiguration description
+13,DNS Resolution Failure,DNS Resolution Failure description
+14,API Latency,API Latency description
+15,Storage Capacity Exceeded,Storage Capacity Exceeded description

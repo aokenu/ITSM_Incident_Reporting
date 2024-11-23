@@ -1,0 +1,6 @@
+service_id,name,description
+1,Consent Management,Consent Management service description
+2,Bills Payment,Bills Payment service description
+3,Instant Payment,Instant Payment service description
+4,Identity Verification,Identity Verification service description
+5,Cards,Cards service description
